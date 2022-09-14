@@ -6,7 +6,7 @@
 
 <h2>O que é Platforms?</h2>
 <p>
-O Platforms é o meu primeiro projeto meu original de JavaScript. Feito no editor do p5js ele é um experimento de plataforma simples.
+O Platforms é o primeiro projeto meu original de JavaScript. Feito no editor do p5js ele é um experimento de plataforma simples.
 <br>
 O projeto possui gravidade implementada e um sistema de propriedades de chão, as plataformas.
 <br>
