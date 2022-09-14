@@ -10,7 +10,7 @@ O Platforms é o primeiro projeto meu original de JavaScript. Feito no editor do
 <br>
 O projeto possui gravidade implementada e um sistema de propriedades de chão, as plataformas.
 <br>
-<a href=https://editor.p5js.org/ll_dev/sketches/pT7kiD7ot>Jogo no p5js.</a>
+<a href=https://editor.p5js.org/ll_dev/sketches/pT7kiD7ot>Jogue no p5js.</a>
 <br>
 <br>
 <img src=https://user-images.githubusercontent.com/110111018/187011277-ba5a74d2-6ffb-40ee-81d5-3c1b03292899.gif width=400px>
